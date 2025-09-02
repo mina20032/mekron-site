@@ -1,49 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- الصفحة الرئيسية -->
+
   <url>
     <loc>https://mekron-site.vercel.app/</loc>
     <lastmod>2025-09-02</lastmod>
     <priority>1.0</priority>
   </url>
 
-  <!-- قسم About -->
   <url>
     <loc>https://mekron-site.vercel.app/#about</loc>
     <lastmod>2025-09-02</lastmod>
     <priority>0.8</priority>
   </url>
 
-  <!-- قسم Yron 1 -->
   <url>
     <loc>https://mekron-site.vercel.app/#yron</loc>
     <lastmod>2025-09-02</lastmod>
     <priority>0.8</priority>
   </url>
 
-  <!-- قسم Values -->
   <url>
     <loc>https://mekron-site.vercel.app/#values</loc>
     <lastmod>2025-09-02</lastmod>
     <priority>0.7</priority>
   </url>
 
-  <!-- قسم Benefits -->
   <url>
     <loc>https://mekron-site.vercel.app/#benefits</loc>
     <lastmod>2025-09-02</lastmod>
     <priority>0.7</priority>
   </url>
 
-  <!-- قسم Why MEKRON -->
   <url>
     <loc>https://mekron-site.vercel.app/#why</loc>
     <lastmod>2025-09-02</lastmod>
     <priority>0.7</priority>
   </url>
 
-  <!-- قسم Contact -->
   <url>
     <loc>https://mekron-site.vercel.app/#contact</loc>
     <lastmod>2025-09-02</lastmod>
